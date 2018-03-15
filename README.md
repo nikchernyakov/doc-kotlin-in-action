@@ -3,7 +3,7 @@
 
 ### Содержание:
 - **Часть 1. Введение в Kotlin**
-  - **Глава 1.** Введение
+  - **Глава 1.** [Введение](https://github.com/nikchernyakov/doc-kotlin-in-action/blob/master/chapters/chapter-1-introdaction.md#%D0%92%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5)
   - **Глава 2.** Основы
   - **Глава 3.** Определение и вызов функций
   - **Глава 4.** Классы, объекты и интерфейсы
